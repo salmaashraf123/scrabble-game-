@@ -1,6 +1,6 @@
 # File : CS112_A1_T2_Game2_20231073 
 # Purpose : A scrabble game in python . Each player take a different num from 1 to 9 . if a player has picked three numbers that add up to 15, that player wins the game. 
-# Author : Salma Ashraf Hassan mostafa
+# Author :  Salma Ashraf Hassan mostafa
 # ID : 20231073 
 
 # Initialize the list of numbers and two empty lists for each player
